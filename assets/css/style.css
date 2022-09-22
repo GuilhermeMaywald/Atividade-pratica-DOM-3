@@ -1,0 +1,15 @@
+.formulario {
+    background-color: rgb(86, 207, 116);
+    display: flex;
+    width: 200px;
+    height: 350px;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.btn_validar {
+    background-color: rgb(88, 13, 13);
+    color: white;
+    border-radius: 4px;
+    width: 100%;
+}
